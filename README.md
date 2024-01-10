@@ -1,7 +1,29 @@
-# Vue 3 + Vite
+# BLOG
+> **Warning**
+This project is still in development.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A basic blog design. 
 
-## Recommended IDE Setup
+This project was inspired by the design on the following link:
+[link to design](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=0-1&mode=design&t=wlns2QRZDBmoCE6c-0)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Tools used to develop this project:
+- Vite + Vue3;
+- Javascript;
+- HTML;
+- CSS;
+
+### Running the project
+1. Clone the repository:
+  ```bash
+    git clone https://github.com/PatriciaFontenelle/blog.git
+  ```
+2. Install dependecies:
+  ```bash
+    npm install
+  ```
+3. Start development environment:
+  ```bash
+    npm run dev
+  ```
+
